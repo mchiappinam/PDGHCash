@@ -1,0 +1,9 @@
+mySQL:
+  ip: localhost
+  porta: 3306
+  usuario: root
+  senha: 123456
+  db: cash
+  tabela: jogadores
+comando:
+  fly: "commandbook.flight.toggle"

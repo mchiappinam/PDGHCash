@@ -1,0 +1,10 @@
+name: PDGHCash
+main: me.mchiappinam.pdghcash.Main
+version: 1.0
+author: mchiappinam
+website: http://pdgh.net/ & https://hostload.com.br/
+depends: [Vault]
+commands:
+   cash:
+      description: Info.
+      usage: /<command>
